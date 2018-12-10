@@ -1,13 +1,7 @@
 /*
- * To Do List
- * 1. Set up event handler for click
- * 2. Get input values
- * 3. Add the new items to our data structure
- * 4. Add the new item to the UI
- * 5. Calculate budget
- * 6. Update the UI
  * 
  * Modules
+ * 
  * UI modules
  * 
  * Data module
@@ -16,12 +10,6 @@
  * 
  * 
  * */
-
-/*return {
-        publicTest: function () {
-            console.log('hello');
-        }
-    }*/
 
 
 //Budget Controller Module
